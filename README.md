@@ -1,7 +1,7 @@
 ## Machine-Learning-Project
 ### Boston House Price Prediction
 
-### Sooftware and Tools Requirements 
+### Software and Tools Requirements 
 
 1. [Github Account](https://github.com/)
 2. [HerokuAccount](https://signup.heroku.com/)
