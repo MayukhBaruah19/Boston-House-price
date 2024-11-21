@@ -1,5 +1,7 @@
 ## Machine-Learning-Project
-### Boston House Price Prediction
+**The Boston House Price Prediction System is a machine learning project designed to 
+estimate the value of houses in Boston based on various features . The project leverages the
+Boston Housing Dataset, a well-known dataset used in regression tasks.**
 
 ### Software and Tools Requirements 
 
